@@ -48,4 +48,3 @@ class CloverApi < Roda
 
     r.hash_branches("")
   end
-end
