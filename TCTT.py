@@ -1,5 +1,4 @@
 const { resolve } = require('node:path')
-const { resolve } = require('node:path')
 
 const restricted = [
   'vue',
