@@ -1,18 +1,13 @@
-# important-19
-Newcastle United claimed their second Old Trafford victory over Manchester United since 1972 to avenge their Carabao Cup final defeat at Wembley and pile the pressure on home manager Erik ten Hag.
+There are so many questions about how Sam Altman was fired.
 
-First-half goals from substitute Miguel Almiron and Lewis Hall, his first for the club, were followed up by a solo effort from Joe Willock on the hour to give Newcastle their biggest away win over their hosts in 93 years as they cruised into the quarter-finals.
+How come just four board members could act to remove the company's chief executive? Why did some board members have so little board-level experience? And why didn't Microsoft, by far the biggest investor in OpenAI, have a board seat?
 
-Newcastle will travel to Stamford Bridge to take on fellow Premier League side Chelsea, who beat Blackburn 2-0 in the fourth round.
+The answers to those questions lie in the company's idiosyncratic structure - and to understand that you have to go back to 2015.
 
-It was another desperate day for Manchester United and Ten Hag, who have lost eight of their opening 15 games for the first time since the 1962-63 season.
+When OpenAI first started out, it was resolutely non-profit. Its press release made it crystal clear: "Our aim is to build value for everyone rather than shareholders," it said.
 
-Coming just three days after they suffered another three-goal home humiliation at the hands of Manchester City, the home side's weaknesses were again cruelly exposed.
+The goal was "to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return".
 
-Diogo Dalot was replaced at half-time following his failure to track Almiron's right-wing burst for the opener.
+There was also a view that the goal of achieving artificial general intelligence (AGI) - AI that can perform any task that a human being is capable of - could be achievable with relatively little money.
 
-Returning Brazilian midfielder Casemiro did not re-appear for the second-half either with Ten Hag evidently unimpressed by the former Real Madrid man.
-
-Hall struck a fine second as he met Harry Maguire's headed clearance with a first-time volley. Willock's effort emulate Hall's by finding the bottom corner after he had been allowed to run 30 yards unchecked before shooting after Sofyan Amrabat had lost possession on the halfway line.
-
-In a week where the size of their kit has been questioned, Manchester United's players could have done with shirts big enough to cover their heads as, for the second game running, they were booed off at the end of both halves.
+In 2015, OpenAI said funders had committed $1bn (£799m) to the project - but that "we expect to only spend a tiny fraction of this in the next few years".
